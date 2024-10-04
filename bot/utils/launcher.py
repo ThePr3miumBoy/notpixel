@@ -21,13 +21,6 @@ start_text = """
 ██║ ╚████║╚██████╔╝   ██║   ██║     ██║██╔╝ ██╗███████╗███████╗
 ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
 
-🎨️Github - https://github.com/YarmolenkoD/notpixel
-
-My other bots:
-
-💩Boinkers - https://github.com/YarmolenkoD/boinkers
-🚀Moonbix - https://github.com/YarmolenkoD/moonbix
-
 Select an action:
 
     1. Start drawing 🎨️
