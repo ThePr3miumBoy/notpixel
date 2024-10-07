@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     API_HASH: str
 
     USE_REF: bool = True
-    REF_ID: str = 'f355876562'
+    REF_ID: str = 'f2006160769'
     PERCENT_OF_REFERRALS_FOR_CREATORS_OF_THE_SOFT: int = 15
 
     USE_RANDOM_DELAY_IN_RUN: bool = True
@@ -23,7 +23,7 @@ class Settings(BaseSettings):
 
     ENABLE_AUTO_JOIN_TO_SQUAD_CHANNEL: bool = False
     ENABLE_AUTO_JOIN_TO_SQUAD: bool = True
-    SQUAD_SLUG: str = 'notpixel_raiders'
+    SQUAD_SLUG: str = 'Fuck_Off_V1'
 
     DISABLE_IN_NIGHT: bool = False
     NIGHT_TIME: list[int] = [23, 6]
